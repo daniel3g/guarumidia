@@ -1,0 +1,9 @@
+.container {
+  padding: 10px 150px;
+  display: flex;
+  justify-content: space-between;
+
+  background: #181e23;
+  color: #949FAC;
+}
+
