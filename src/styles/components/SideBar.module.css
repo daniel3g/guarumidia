@@ -1,9 +1,28 @@
+.link{
+  text-decoration: none;
+}
+
 .container {
   padding: 10px 150px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 
   background: #181e23;
   color: #949FAC;
+}
+
+.dadosSidebar{
+  color: #949FAC;
+  text-decoration: #3AB9C0;
+}
+
+.dadosSidebar:hover{
+  color: #3AB9C0;
+}
+
+.dadosSidebarSocial{
+  margin-right: 5px;
+  font-size: 18px;
 }
 
