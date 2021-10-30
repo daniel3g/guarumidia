@@ -1,0 +1,26 @@
+.bannerHome{
+    background-color: #7275a6;
+    display: flex;
+    padding: 80px 20px 80px 20px;
+}
+
+.titleBanner{
+    color: #1B2C38;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.textBanner{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.bannerLeft{
+    width: 50%;
+}
+
+.bannerRight{
+    width: 50%;
+    padding: 0 140px 0 0;
+}
